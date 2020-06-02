@@ -4,7 +4,7 @@ const assets = [
     "/index.html",
     "main.js",
     "style.css",
-    "data/::"
+    "data/text.js"
 ]
 
 self.addEventListener("install", installEvent => {
